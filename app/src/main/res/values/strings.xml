@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pet Health</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="titele_fragment_home">Нажмите +, чтобы добавить питомца </string>
+    <string name="title_notifications">Tasks</string>
+    <string name="title_signIn">Войти</string>
+    <string name="title_registration">Регистрация</string>
+    <string name="text_for_sign_up">Нажмите, чтобы зарегистрироваться</string>
+    <string name="text_for_sign_in">Нажмите, чтобы войти</string>
+    <string name="email_hint"> Email </string>
+    <string name="repeat_password_hint"> Город </string>
+    <string name="nickname_hint"> Введите имя  </string>
+    <string name="password_hint">Пароль</string>
+    <string name="repit_password_hint">Повторите пароль</string>
+    <string name="Pet_health">PET HEALTH</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_activity_main">Мои Питомцы</string>
+    <string name="User">User</string>
+    <string name="plus">+</string>
+    <string name="completed">Выполнено</string>
+    <string name="note_text">Новая задача</string>
+    <string name="note_details_title">To do</string>
+    <string name="save">Сохранить</string>
+
+</resources>
